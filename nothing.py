@@ -1,4 +1,4 @@
-#guessing_game.py   |   by Henry Lawnrence 20260207
+#guessing_game.py   |   by Henry Lawrence 20260207
 
 import os
 import random
