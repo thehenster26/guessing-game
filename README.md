@@ -16,7 +16,7 @@ Guess a secret number between 1 and 1000 while the computer roasts your bad gues
 
 
 ### 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/guessing-game.git
+git clone https://github.com/thehenster26/guessing-game.git
 cd guessing-game
 
 ### 2. Run it (Python 3.6+ required – no extra packages needed!)
