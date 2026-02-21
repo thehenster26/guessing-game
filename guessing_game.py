@@ -35,11 +35,11 @@ while value_guessed == False:
         elif value < input_value:
             os.system('cls' if os.name == 'nt' else 'clear')
             print(random.choice(taunts_high))
-            print("\nYour value is too L A R G E!\n")
+            print(f"\nYour value is too L A R G E! Try something lesser than {input1}\n")
         elif value > input_value:
             os.system('cls' if os.name == 'nt' else 'clear')
             print(random.choice(taunts_low))
-            print("\nYour value is too S M A L L!\n")
+            print(f"\nYour value is too S M A L L! Try something greater than {input1}\n")
     except ValueError:
         print("That's not a valid number. Please try again.\n")
             
