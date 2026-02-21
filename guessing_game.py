@@ -8,16 +8,16 @@ value_guessed = False
 
 
 taunts_low = [
-    "Bro that's tiny... try bigger 💪",
-    "My grandma guesses higher than that 😴",
+    "Bro that's tiny... try bigger",
+    "My grandma guesses higher than that",
     "Did you just guess with your eyes closed?",
-    "Even my dog knows it's higher 🐶"
+    "Even my dog knows it's higher"
 ]
 
 taunts_high = [
-    "Chill bro, that's massive! 📏",
-    "You trying to break the scale?! ↓",
-    "Lower... like your standards apparently 😏",
+    "Chill bro, that's massive!",
+    "You trying to break the scale?!",
+    "Lower... like your standards apparently",
     "I said number, not your credit card bill"
 ]
 
