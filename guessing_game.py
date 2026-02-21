@@ -42,6 +42,7 @@ while value_guessed == False:
             print(f"\nYour value is too S M A L L! Try something greater than {input1}\n")
     except ValueError:
         print("That's not a valid number. Please try again.\n")
+        print(f"\n...does {input1} really look like a number to you?")
             
 
     
